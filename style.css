@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#nav{
+    /* height: 40px; */
+    background-color: rgb(196, 45, 28); */
+  
+    display: flex;
+    align-items: center;
+    /* flex-direction: row; */
+    height: 40px;
+    width: 100%;
+
+
+    
+
+}
+.nav-elements{
+    color: rgb(34, 1, 15);
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-top: 20px;
+
+    height: 40px;
+
+}
+#search{
+    color: rgb(0, 7, 13);
+    margin-left: 740px; */
+}
+#first-img{
+    align-items: center;
+    background: url(https://images.pexels.com/photos/19610998/pexels-photo-19610998/free-photo-of-girl-standing-in-snow.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    height: 100vh;
+    /* height:600px; */
+    background-position: center;
+background-size: cover;
+object-fit: contain;
+
+}
+
+
+
+
